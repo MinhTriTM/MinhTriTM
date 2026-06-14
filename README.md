@@ -76,7 +76,7 @@ Everything below regenerates on a schedule from my real activity.
 
 ## All repositories
 
-Every public repository, nothing left out. 335 of my own, plus 75 forks at the end.
+Every public repository I own, nothing left out. 335 in total.
 
 ### Command-line tools (244)
 
@@ -424,88 +424,6 @@ Every public repository, nothing left out. 335 of my own, plus 75 forks at the e
 - [vigo](https://github.com/tamnd/vigo) - 100% faithful, modernized Borland Turbo Vision IDE - reimagined as a self-hosted Go IDE written in Go.
 - [zag](https://github.com/tamnd/zag) - A Zig interpreter for CPython 3.14 bytecode. One static binary, no libpython.
 - [zig](https://github.com/tamnd/zig) - Daily GitHub mirror of codeberg.org/ziglang/zig
-
-<details>
-<summary>Forks (75)</summary>
-
-
-- [action-golangci-lint](https://github.com/tamnd/action-golangci-lint) - Run golangci-lint with reviewdog
-- [automagica](https://github.com/tamnd/automagica) - Open Source (Smart) Robotic Process Automation
-- [CodeMirror](https://github.com/tamnd/CodeMirror) - In-browser code editor
-- [cpy3](https://github.com/tamnd/cpy3) - Go bindings for CPython 3.14 with subinterpreter, free-threaded, and JIT support
-- [devguide](https://github.com/tamnd/devguide) - The Python developer's guide
-- [dgraph](https://github.com/tamnd/dgraph) - Fast, Distributed Graph DB
-- [distillpub--post--activation-atlas](https://github.com/tamnd/distillpub--post--activation-atlas) - Using feature inversion to visualize millions of activations from an image classification network, we create an explorable activation atlas of features the network has learned which can reveal how the network typically represents some concepts.
-- [distillpub--post--aia](https://github.com/tamnd/distillpub--post--aia) - Using Artificial Intelligence to Augment Human Intelligence
-- [distillpub--post--attribution-baselines](https://github.com/tamnd/distillpub--post--attribution-baselines) - The repository for the submission "Visualizing the Impact of Feature Attribution Baselines"
-- [distillpub--post--bayesian-optimization](https://github.com/tamnd/distillpub--post--bayesian-optimization) - Exploring Bayesian Optimization
-- [distillpub--post--circuits-branch-specialization](https://github.com/tamnd/distillpub--post--circuits-branch-specialization) - Circuits: Branch Specialization
-- [distillpub--post--circuits-curve-circuits](https://github.com/tamnd/distillpub--post--circuits-curve-circuits)
-- [distillpub--post--circuits-early-overview](https://github.com/tamnd/distillpub--post--circuits-early-overview)
-- [distillpub--post--circuits-equivariance](https://github.com/tamnd/distillpub--post--circuits-equivariance)
-- [distillpub--post--circuits-overview](https://github.com/tamnd/distillpub--post--circuits-overview)
-- [distillpub--post--circuits-visualizing-weights](https://github.com/tamnd/distillpub--post--circuits-visualizing-weights) - Visualizing Weights
-- [distillpub--post--circuits-zoom-in](https://github.com/tamnd/distillpub--post--circuits-zoom-in) - Zoom In: An Introduction to Circuits
-- [distillpub--post--communicating-with-interactive-articles](https://github.com/tamnd/distillpub--post--communicating-with-interactive-articles)
-- [distillpub--post--differentiable-parameterizations](https://github.com/tamnd/distillpub--post--differentiable-parameterizations) - A powerful, under-explored tool for neural network visualizations and art.
-- [distillpub--post--distill-hiatus](https://github.com/tamnd/distillpub--post--distill-hiatus)
-- [distillpub--post--editorial-update-2018](https://github.com/tamnd/distillpub--post--editorial-update-2018) - Distill Update 2018
-- [distillpub--post--gan-open-problems](https://github.com/tamnd/distillpub--post--gan-open-problems) - Open Questions about Generative Adversarial Networks
-- [distillpub--post--gnn-intro](https://github.com/tamnd/distillpub--post--gnn-intro)
-- [distillpub--post--grand-tour](https://github.com/tamnd/distillpub--post--grand-tour)
-- [distillpub--post--growing-ca](https://github.com/tamnd/distillpub--post--growing-ca) - Growing Neural Cellular Automata
-- [distillpub--post--ilyas-rebuttal](https://github.com/tamnd/distillpub--post--ilyas-rebuttal)
-- [distillpub--post--ilyas-response-1](https://github.com/tamnd/distillpub--post--ilyas-response-1)
-- [distillpub--post--ilyas-response-2](https://github.com/tamnd/distillpub--post--ilyas-response-2)
-- [distillpub--post--ilyas-response-3](https://github.com/tamnd/distillpub--post--ilyas-response-3)
-- [distillpub--post--ilyas-response-4](https://github.com/tamnd/distillpub--post--ilyas-response-4)
-- [distillpub--post--ilyas-response-5](https://github.com/tamnd/distillpub--post--ilyas-response-5)
-- [distillpub--post--ilyas-response-6](https://github.com/tamnd/distillpub--post--ilyas-response-6)
-- [distillpub--post--ilyas-responses](https://github.com/tamnd/distillpub--post--ilyas-responses)
-- [distillpub--post--memorization-in-rnns](https://github.com/tamnd/distillpub--post--memorization-in-rnns) - Visualizing memorization in RNNs
-- [distillpub--post--multimodal](https://github.com/tamnd/distillpub--post--multimodal) - Multimodal Neurons in Artificial Neural Networks
-- [distillpub--post--receptive-field](https://github.com/tamnd/distillpub--post--receptive-field) - Paper "Computing Receptive Fields of Convolutional Neural Networks".
-- [distillpub--post--safety-needs-social-scientists](https://github.com/tamnd/distillpub--post--safety-needs-social-scientists) - AI safety needs social scientists
-- [distillpub--post--selforg-adversarial](https://github.com/tamnd/distillpub--post--selforg-adversarial)
-- [distillpub--post--selforg-mnist](https://github.com/tamnd/distillpub--post--selforg-mnist)
-- [distillpub--post--selforg-overview](https://github.com/tamnd/distillpub--post--selforg-overview)
-- [distillpub--post--selforg-textures](https://github.com/tamnd/distillpub--post--selforg-textures) - Self-Organising Textures
-- [distillpub--post--td-paths](https://github.com/tamnd/distillpub--post--td-paths) - The Paths Perspective on Value Learning
-- [distillpub--post--understanding-rl-vision](https://github.com/tamnd/distillpub--post--understanding-rl-vision) - Understanding RL vision Distill article
-- [distillpub--post--visual-exploration-gaussian-processes](https://github.com/tamnd/distillpub--post--visual-exploration-gaussian-processes) - A Visual Exploration of Gaussian Processes
-- [distillpub--post--weight-banding](https://github.com/tamnd/distillpub--post--weight-banding) - Investigation of weight banding
-- [Dockerfiles](https://github.com/tamnd/Dockerfiles) - Public Docker files for Anduin Transaction Inc
-- [docs.scala-lang](https://github.com/tamnd/docs.scala-lang) - The Scala Documentation website
-- [dotty](https://github.com/tamnd/dotty) - Research platform for new language concepts and compiler technologies for Scala.
-- [elixir](https://github.com/tamnd/elixir) - Exercism exercises in Elixir.
-- [foundationdb](https://github.com/tamnd/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [goempy](https://github.com/tamnd/goempy) - Ship a CPython interpreter and pip packages inside your Go binary. Uses python-build-standalone, supports Linux, macOS, and Windows, and tracks CPython 3.10 through 3.14.
-- [golang-website-vi](https://github.com/tamnd/golang-website-vi) - [mirror] Home of the go.dev and golang.org websites
-- [gremlin-scala](https://github.com/tamnd/gremlin-scala) - Scala wrapper for Apache TinkerPop 3 Graph DSL
-- [hardcore-rule](https://github.com/tamnd/hardcore-rule)
-- [kotlin](https://github.com/tamnd/kotlin) - The Kotlin Programming Language
-- [kubernetes](https://github.com/tamnd/kubernetes) - Container Cluster Manager from Google
-- [kubernetes-the-hard-way](https://github.com/tamnd/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [lancedb-go](https://github.com/tamnd/lancedb-go) - LanceDB Go SDK
-- [linux](https://github.com/tamnd/linux) - Linux kernel source tree
-- [magit-libgit2](https://github.com/tamnd/magit-libgit2) - libgit2 support for magit
-- [mdn-content](https://github.com/tamnd/mdn-content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [meetup](https://github.com/tamnd/meetup) - Golang Vietnam meetup wiki and resources
-- [nimpy](https://github.com/tamnd/nimpy) - Nim - Python bridge
-- [python-0.9.1](https://github.com/tamnd/python-0.9.1) - Python 0.9.1 from 1991, Guido van Rossum's first public release, patched to compile on modern systems
-- [quill](https://github.com/tamnd/quill) - Compile-time Language Integrated Query for Scala
-- [rose-pine-doom-emacs](https://github.com/tamnd/rose-pine-doom-emacs) - Soho vibes for DOOM Emacs
-- [scala](https://github.com/tamnd/scala) - The Scala programming language
-- [scala-lang](https://github.com/tamnd/scala-lang) - The Scala Website
-- [scikit-learn](https://github.com/tamnd/scikit-learn) - scikit-learn: machine learning in Python
-- [sdk-for-web](https://github.com/tamnd/sdk-for-web) - [READ-ONLY] Official Appwrite Web SDK 🧡
-- [sicp](https://github.com/tamnd/sicp) - Vietnamese translation of SICP (Structure and Interpretation of Computer Programs)
-- [tensorflow](https://github.com/tamnd/tensorflow) - Computation using data flow graphs for scalable machine learning
-- [tour](https://github.com/tamnd/tour) - Vietnamese translation for A Tour of Go
-- [typora](https://github.com/tamnd/typora) - Soho vibes for Typora
-- [vuejs.org](https://github.com/tamnd/vuejs.org) - 🇻🇳 Phiên bản tiếng Việt của vuejs.org
-
-</details>
 
 ## Where to find me
 
