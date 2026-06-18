@@ -276,6 +276,26 @@ Jun  ░            ← Current month
 
 ---
 
+## 🎨 Custom Profile Cards
+
+### 🛠️ Tech Stack & Skills
+
+![Tech Stack](./tech-stack.svg)
+
+### 🏆 Achievements & Milestones
+
+![Achievements](./achievements.svg)
+
+### 🎯 Current Focus & Projects
+
+![Current Focus](./current-focus.svg)
+
+### 📊 Repository Overview
+
+![Repository Overview](./repo-overview.svg)
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.

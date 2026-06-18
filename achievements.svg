@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="220" viewBox="0 0 495 220">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="495" height="220" rx="10" fill="#1a1b27"/>
+  
+  <!-- Title -->
+  <text x="247.5" y="30" text-anchor="middle" fill="url(#grad1)" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="700">
+    🏆 Achievements &amp; Milestones
+  </text>
+  
+  <!-- Achievement 1: Pair Extraordinaire -->
+  <g transform="translate(20, 50)">
+    <rect width="220" height="45" rx="8" fill="#2d333b"/>
+    <text x="15" y="20" fill="#ffa657" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18">🤝</text>
+    <text x="45" y="18" fill="#e6edf3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" font-weight="600">Pair Extraordinaire</text>
+    <text x="45" y="35" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">×3 earned</text>
+  </g>
+  
+  <!-- Achievement 2: Pull Shark -->
+  <g transform="translate(255, 50)">
+    <rect width="220" height="45" rx="8" fill="#2d333b"/>
+    <text x="15" y="20" fill="#58a6ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18">🦈</text>
+    <text x="45" y="18" fill="#e6edf3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" font-weight="600">Pull Shark</text>
+    <text x="45" y="35" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">×2 earned</text>
+  </g>
+  
+  <!-- Achievement 3: Quickdraw -->
+  <g transform="translate(20, 105)">
+    <rect width="220" height="45" rx="8" fill="#2d333b"/>
+    <text x="15" y="20" fill="#7ee787" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18">⚡</text>
+    <text x="45" y="18" fill="#e6edf3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" font-weight="600">Quickdraw</text>
+    <text x="45" y="35" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">×1 earned</text>
+  </g>
+  
+  <!-- Achievement 4: YOLO -->
+  <g transform="translate(255, 105)">
+    <rect width="220" height="45" rx="8" fill="#2d333b"/>
+    <text x="15" y="20" fill="#d2a8ff" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="18">🤠</text>
+    <text x="45" y="18" fill="#e6edf3" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12" font-weight="600">YOLO</text>
+    <text x="45" y="35" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">×1 earned</text>
+  </g>
+  
+  <!-- Key Milestones -->
+  <g transform="translate(20, 165)">
+    <rect width="455" height="40" rx="8" fill="#2d333b"/>
+    <text x="227.5" y="15" text-anchor="middle" fill="#ffa657" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11" font-weight="600">📅 Key Milestones</text>
+    <text x="227.5" y="30" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="10">
+      Sep 2024: Joined GitHub | Sep 2025: First PR | Mar 2026: Most active month (19+ commits)
+    </text>
+  </g>
+</svg>
