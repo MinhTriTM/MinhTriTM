@@ -260,6 +260,20 @@ Jun  ░            ← Current month
 
 ![commit calendar](./metrics.calendar.svg)
 
+### 🎯 GitHub Stats & Achievements
+
+![GitHub Stats](./16c6c5f63.svg)
+
+![Top Languages](./55f62.svg)
+
+### 📈 Contribution Activity
+
+![Contribution Graph](./6874747.svg)
+
+### 🐍 Contribution Snake
+
+![GitHub Snake Dark](./github-snake-dark.svg)
+
 ---
 
 ## 📄 License
