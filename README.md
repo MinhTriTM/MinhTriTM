@@ -10,12 +10,13 @@ Mình tập trung vào học và xây dựng các dự án thực tế xoay quan
 
 ---
 
-## 🚀 Featured repositories
+## 🚀 Recently updated repositories
 
-- [Universal-Unity-IL2CPP-Save-Engine](https://github.com/MinhTriTM/Universal-Unity-IL2CPP-Save-Engine)
-- [Git_Easy_Toolkit](https://github.com/MinhTriTM/Git_Easy_Toolkit)
-- [Universal_Translation_Hub_-UTH-](https://github.com/MinhTriTM/Universal_Translation_Hub_-UTH-)
-- [IMO-AXON](https://github.com/MinhTriTM/IMO-AXON)
+- [valheim-vietnamese-community](https://github.com/MinhTriTM/valheim-vietnamese-community) — Python
+- [-CNKT-EVENT-HUB](https://github.com/MinhTriTM/-CNKT-EVENT-HUB) — TypeScript
+- [KeHoachHocTap](https://github.com/MinhTriTM/KeHoachHocTap) — CSS
+- [ai-crypto-trading-lab](https://github.com/MinhTriTM/ai-crypto-trading-lab) — Python
+- [BT_TNC_Dot-NET](https://github.com/MinhTriTM/BT_TNC_Dot-NET) — C#
 
 ---
 
