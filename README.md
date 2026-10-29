@@ -16,7 +16,7 @@ Mình tập trung vào học và xây dựng các dự án thực tế xoay quan
 - [-CNKT-EVENT-HUB](https://github.com/MinhTriTM/-CNKT-EVENT-HUB) — TypeScript
 - [KeHoachHocTap](https://github.com/MinhTriTM/KeHoachHocTap) — CSS
 - [ai-crypto-trading-lab](https://github.com/MinhTriTM/ai-crypto-trading-lab) — Python
-- [BT_TNC_Dot-NET](https://github.com/MinhTriTM/BT_TNC_Dot-NET) — C#
+- [vision-cleanse](https://github.com/MinhTriTM/vision-cleanse) — python
 
 ---
 
