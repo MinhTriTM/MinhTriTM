@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="Rắn săn mồi — bấm để chơi ngay">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="220" rx="28" fill="url(#bg)"/>
+  <circle cx="700" cy="110" r="62" fill="#16a34a" opacity="0.25"/>
+  <circle cx="700" cy="110" r="42" fill="#22c55e"/>
+  <circle cx="688" cy="100" r="6" fill="#052e16"/>
+  <circle cx="712" cy="100" r="6" fill="#052e16"/>
+  <circle cx="150" cy="110" r="16" fill="#ef4444"/>
+  <rect x="146" y="88" width="8" height="14" rx="4" fill="#22c55e"/>
+  <text x="60" y="92" font-family="system-ui, Arial, sans-serif" font-size="52" font-weight="800" fill="#ffffff">RẮN SĂN MỒI</text>
+  <text x="60" y="132" font-family="system-ui, Arial, sans-serif" font-size="24" fill="#d1fae5">Mini game chơi thật trên trình duyệt</text>
+  <rect x="60" y="152" width="230" height="44" rx="22" fill="#ffffff"/>
+  <text x="175" y="181" font-family="system-ui, Arial, sans-serif" font-size="22" font-weight="700" fill="#14532d" text-anchor="middle">▶ BẤM ĐỂ CHƠI</text>
+</svg>

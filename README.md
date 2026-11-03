@@ -43,6 +43,12 @@ Danh sách dưới đây được cập nhật theo hoạt động GitHub mới 
 ![Commit calendar](./metrics.calendar.svg)
 ![GitHub Snake Dark](./github-snake-dark.svg)
 
+## 🎮 Mini game
+
+[![Rắn săn mồi](./game-banner.svg)](https://minhtritm.github.io/snake/)
+
+Bấm vào banner để chơi **Rắn săn mồi** ngay trên trình duyệt — phím mũi tên/WASD trên máy tính, vuốt hoặc nút bấm trên điện thoại. Điểm cao nhất lưu trên trình duyệt của bạn.
+
 ## 📊 Profile snapshot
 
 | Thông tin | Giá trị |
