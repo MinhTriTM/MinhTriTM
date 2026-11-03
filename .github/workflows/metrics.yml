@@ -15,7 +15,7 @@ jobs:
       - name: overview (commits, prs, issues, activity)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: MinhTriTM
           filename: metrics.svg
           template: classic
@@ -27,7 +27,7 @@ jobs:
       - name: commit calendar (isometric, full year)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
           user: MinhTriTM
           filename: metrics.calendar.svg
           base: ""
